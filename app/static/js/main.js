@@ -1,5 +1,5 @@
 /* ==========================================================================
-   FitTrack — main.js
+   fitnesstrack — main.js
    Shared behaviour for every page:
    1. Sticky header shadow
    2. Responsive navigation menu
